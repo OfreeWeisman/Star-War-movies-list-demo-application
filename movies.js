@@ -6,7 +6,6 @@
 const request = new XMLHttpRequest();
 const url = 'https://swapi.dev/api/films/';
 request.open("GET", url);
-// request.responseType = 'jason';
 request.send();
 
 request.onreadystatechange = processRequest;
