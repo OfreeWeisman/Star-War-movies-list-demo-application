@@ -6,4 +6,5 @@ All selections are automatically saved to the local storage, thus the user can l
 
 ## Instructions
 1. Download the files
-2. Open movies.html file in the browser 
+2. Open movies.html file in the browser
+3. Tip: avoid using Brave browser due to security restrictions which may deny access to the local storage
